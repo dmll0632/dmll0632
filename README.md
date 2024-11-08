@@ -6,7 +6,7 @@ I'm a data scientist, tech enthusiast, and a lifelong learner! I love playing wi
 
 ## About Me
 -🌱 I’m currently interested in learning about Large Language Models (LLMs) and Reinforcement Learning algorithms.
-- 💬Feel free to ask me about my projects or reach out if you’d like to collaborate on new ideas!
+-💬Feel free to ask me about my projects or reach out if you’d like to collaborate on new ideas!
 
 ## Technical Skills
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
