@@ -15,6 +15,9 @@ I'm a data scientist, tech enthusiast, and a lifelong learner! I love playing wi
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-003366?style=flat&logo=matplotlib&logoColor=white)
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dmll0632&show_icons=true&theme=radical)
